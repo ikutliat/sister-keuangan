@@ -1,0 +1,1 @@
+Sistem Informasi Keuangan Sekolah lebih difokuskan untuk mempermudah kinerja pengelola keuangan sekolah yaitu bendahara sekolah dalam mengatur uang masuk - keluar.
